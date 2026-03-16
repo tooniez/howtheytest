@@ -1,0 +1,18 @@
+{
+  "id": "quintoandar",
+  "name": "QuintoAndar",
+  "industry": "other",
+  "resources": [
+    {
+      "id": "how-cypress-evolved-as-a-frontend-test-a-e0d10358",
+      "title": "How Cypress evolved as a frontend test automation tool at QuintoAndar",
+      "url": "https://medium.com/quintoandar-tech-blog/how-cypress-evolved-as-a-frontend-test-automation-tool-at-quintoandar-7bfa0e03bdf5",
+      "type": "blog or article",
+      "topics": [
+        "e2e-testing",
+        "cypress"
+      ],
+      "addedDate": "2026-03-16"
+    }
+  ]
+}
