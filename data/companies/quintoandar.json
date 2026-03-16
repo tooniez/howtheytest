@@ -1,0 +1,17 @@
+{
+  "id": "quintoandar",
+  "name": "QuintoAndar",
+  "industry": "other",
+  "resources": [
+    {
+      "id": "what-not-to-do-when-running-ab-tests-25944166",
+      "title": "What not to do when running A/B tests",
+      "url": "https://medium.com/quintoandar-tech-blog/what-not-to-do-when-running-ab-tests-edaa4eae4366",
+      "type": "blog or article",
+      "topics": [
+        "ab-testing"
+      ],
+      "addedDate": "2026-03-16"
+    }
+  ]
+}
